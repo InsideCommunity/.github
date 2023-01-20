@@ -1,4 +1,3 @@
-
 <p align="center" width="30%">
     <img width="20%" src="https://cdn.shortpixel.ai/spai/ret_img/https://www.insidegroup.fr/wp-content/uploads/sites/1/2022/09/logo.svg">
 </p>
@@ -8,12 +7,14 @@
 <div align="center">
 
 [![Website][website-shield]][website-url]
-
+[![Info][docs-shield]][docs-url]
 </div>
 
 
 [website-shield]: https://img.shields.io/static/v1?label=www&message=insidegroup.fr&color=blue?style=for-the-badge&logo=appveyor
 [website-url]:  https://www.insidegroup.fr/
+[docs-shield]: https://img.shields.io/badge/info-docs-blue??style=for-the-badge&logo=appveyor
+[docs-url]: https://github.com/InsideCommunity/insidecommunitydocs
 
 <!--
 
